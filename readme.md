@@ -1,10 +1,7 @@
 A Barebones template including:
 
--   Vite w/ SWC
--   React
--   TypeScript
--   Tailwind
--   Eslint (with Airbnb style)
--   Prettier
--   Husky
--   Lint-Staged
+-   Vite & SWC
+-   React & TypeScript
+-   TailwindCSS
+-   Prettier & Eslint (with Airbnb style)
+-   Husky & Lint-Staged
