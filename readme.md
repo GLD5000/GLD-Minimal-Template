@@ -1,4 +1,4 @@
-Bare-bones template including:
+A Barebones template including:
 
 -   Vite w/ SWC
 -   React
