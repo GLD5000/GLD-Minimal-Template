@@ -17,3 +17,5 @@
 -   "name": "gld minimal template", (2 x in package-lock.json)
 
 2. Add a favicon to index.html
+
+3. Add a manifest
