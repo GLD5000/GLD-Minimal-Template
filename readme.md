@@ -19,3 +19,5 @@
 2. Add a favicon to index.html
 
 3. Add a manifest
+
+4. Delete the boiler plate within App.tsx when you are ready to start building!
