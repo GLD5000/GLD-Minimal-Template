@@ -1,4 +1,6 @@
-A Barebones template including:
+# GLD Minimal Template
+
+## A Barebones template including:
 
 -   Vite & SWC
 -   React & TypeScript
@@ -6,7 +8,7 @@ A Barebones template including:
 -   Prettier & Eslint (with Airbnb style)
 -   Husky & Lint-Staged
 
-Make it your own:
+## Make it your own:
 
 1. replace names:
 
